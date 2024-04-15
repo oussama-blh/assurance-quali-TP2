@@ -24,6 +24,6 @@ public class CalculatriceTest {
     // TODO : Vérification de l'état de l'objet après l'appel de la
     //méthode "additionner", penser à utiliser la méthode
     //« getState() » de la directive « verify » : // exemple :
-        //verify().getState();
+       // verify(calculatrice).getState();
     }
 }
