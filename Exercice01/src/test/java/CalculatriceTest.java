@@ -1,4 +1,5 @@
 import org.example.Calculatrice;
+import org.junit.Assert;
 import org.junit.Test;
 import org.junit.jupiter.api.Assertions;
 import org.junit.runner.RunWith;
@@ -24,6 +25,9 @@ public class CalculatriceTest {
     // TODO : Vérification de l'état de l'objet après l'appel de la
     //méthode "additionner", penser à utiliser la méthode
     //« getState() » de la directive « verify » : // exemple :
-       // verify(calculatrice).getState();
+        when(calculatrice.getState()).thenReturn(Calculatrice.ENABLE);
+        int  s= calculatrice.getState();
+        Assert.assertEquals(s , Calculatrice.ENABLE);
+        verify(calculatrice).getState();
     }
 }

@@ -5,19 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7bc1ed70-84a0-4ebc-9b29-64c3183ba471" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice2/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice2/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice2/src/main/java/org/example/ServiceException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice2/src/main/java/org/example/UserService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice2/src/main/java/org/example/Utilisateur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice2/src/main/java/org/example/UtilisateurApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercice2/src/test/java/UserServiceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Exercice01/src/test/java/CalculatriceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice01/src/test/java/CalculatriceTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercice2/src/test/java/UserServiceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercice2/src/test/java/UserServiceTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +52,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "jdk.selected.JAVA_MODULE": "17",
+    "last_opened_file_path": "C:/Users/pc/Desktop/tp assurance/TP2-assuranceQualite",
     "onboarding.tips.debug.path": "C:/Users/pc/Desktop/tp assurance/TP2-assuranceQualite/Exercice3/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -143,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711989853611</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <created>1713175514569</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713175514569</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
