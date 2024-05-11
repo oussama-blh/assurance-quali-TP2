@@ -11,5 +11,15 @@ public class Utilisateur {
         this.email = email;
     }
 
+    public String getSecondName() {
+        return secondName;
+    }
 
+    public String getEmail() {
+        return email;
+    }
+
+    public String getName() {
+        return firstName;
+    }
 }
